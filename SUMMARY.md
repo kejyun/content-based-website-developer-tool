@@ -7,5 +7,6 @@
 * [SEO](seo/seo-README.md)
     * [nginx](seo/seo-nginx.md)
     * [css](seo/seo-css.md)
+    * [css](seo/seo-javascript.md)
 * [服務](service/service-README.md)
     * [cdn](service/service-cdn.md)
