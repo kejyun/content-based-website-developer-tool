@@ -5,5 +5,6 @@
 * [快取](cache/cache-README.md)
 * [廣告](advertisement/advertisement-README.md)
 * [SEO](seo/seo-README.md)
+    * [nginx](seo/seo-nginx.md)
 * [服務](service/service-README.md)
     * [cdn](service/service-cdn.md)
