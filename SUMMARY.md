@@ -10,3 +10,5 @@
     * [javascript](seo/seo-javascript.md)
 * [服務](service/service-README.md)
     * [cdn](service/service-cdn.md)
+* [社群](social/social-README.md)
+    * [Youtube 播放器 Mobile Friendly](social/youtube/social-youtube-embed-player-mobile-friendly.md)
