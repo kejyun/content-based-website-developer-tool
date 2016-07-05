@@ -101,3 +101,4 @@ http {
 * [Enable gzip compression with nginx](http://blog.norman-chen.me/post/16)
 * [Module ngx_http_gzip_module](http://nginx.org/en/docs/http/ngx_http_gzip_module.html#gzip_types)
 * [Nginx Caching - Servers for Hackers](https://serversforhackers.com/nginx-caching)
+* [Finding the Nginx gzip_comp_level Sweet Spot | Mjanja Tech](https://mjanja.ch/2015/03/finding-the-nginx-gzip_comp_level-sweet-spot/)
