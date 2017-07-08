@@ -48,5 +48,44 @@ CKEDITOR.replace( 'editor1', {
 var data = CKEDITOR.instances.editor1.getData();
 ```
 
+
+## 工具列設定
+
+```javascript
+CKEDITOR.replace( 'editor1', {
+    toolbarGroups : [
+        {
+            name:"basicstyles",
+            groups:["basicstyles"]
+        },
+        {
+            name:"links",
+            groups:["links"]
+        },
+        {
+            name:"paragraph",
+            groups:["list","blocks","indent"]
+        },
+        {
+            name:"insert",
+            groups:["insert"]
+        },
+        {
+            name:"styles",
+            groups:["styles"]
+        },
+        '/',
+        {
+            name: 'clipboard',
+            groups: [ 'undo', 'clipboard' ]
+        },
+        // 切換原始碼
+        {"name":"document","groups":["mode"]},
+    ]
+});
+```
+
+
 ## 參考資料
 * [Quick Start Guide - CKEditor 4 Documentation](http://docs.ckeditor.com/#!/guide/dev_installation)
+* [Toolbar Configuration - CKEditor 4 Documentation](http://docs.ckeditor.com/#!/guide/dev_toolbar-section-%22item-by-item%22-configuration)
