@@ -18,3 +18,5 @@
         * [Debugger](social/facebook/facebook-debugger.md)
     * [Youtube](social/youtube/youtube-README.md)
         * [Youtube 播放器 Mobile Friendly](social/youtube/social-youtube-embed-player-mobile-friendly.md)
+* [外掛](plugin/plugin-README.md)
+    * [Ckeditor](plugin/ckeditor/ckeditor-plugin-README.md)
