@@ -20,3 +20,5 @@
         * [Youtube 播放器 Mobile Friendly](social/youtube/social-youtube-embed-player-mobile-friendly.md)
 * [外掛](plugin/plugin-README.md)
     * [Ckeditor](plugin/ckeditor/ckeditor-plugin-README.md)
+* [圖片](photo/photo-README.md)
+    * [Phone](photo/photo-phone.md)
