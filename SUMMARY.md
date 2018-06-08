@@ -20,6 +20,7 @@
         * [Youtube 播放器 Mobile Friendly](social/youtube/social-youtube-embed-player-mobile-friendly.md)
 * [平台](platform/platform-README.md)
     * [Google News](platform/google-news/google-news-README.md)
+* [Feed](feed/feed-README.md)
 * [外掛](plugin/plugin-README.md)
     * [Ckeditor](plugin/ckeditor/ckeditor-plugin-README.md)
     * [Embed](plugin/plugin-embed.md)
