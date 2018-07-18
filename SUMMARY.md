@@ -25,6 +25,7 @@
 * [外掛](plugin/plugin-README.md)
     * [Ckeditor](plugin/ckeditor/ckeditor-plugin-README.md)
     * [Embed](plugin/plugin-embed.md)
+* [文字](text/text-README.md)
 * [圖片](photo/photo-README.md)
     * [Phone](photo/photo-phone.md)
 * [圖表](chart/chart-README.md)
