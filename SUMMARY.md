@@ -10,6 +10,7 @@
         * [Cache](seo/nginx/seo-ngin-cache.md)
     * [css](seo/seo-css.md)
     * [javascript](seo/seo-javascript.md)
+    * [結構化資料](seo/seo-structured-data.md)
 * [服務](service/service-README.md)
     * [Google Analytics](service/google-analytics/service-google-analytics-README.md)
         * [Google Analytics](service/google-analytics/service-google-analytics-content-group.md)
