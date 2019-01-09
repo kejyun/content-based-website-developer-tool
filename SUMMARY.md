@@ -37,6 +37,7 @@
     * [Mailchimp](mail/mailchimp/mail-mailchimp-README.md)
         * [RSS 電子報](mail/mailchimp/mail-mailchimp-rss-campaign.md)
         * [管理訂閱者](mail/mailchimp/mail-mailchimp-manage-subscribers.md)
+        * [讓取消訂閱的讀者重新訂閱電子報](mail/mailchimp/mail-mailchimp-re-subscriber-newsletter.md)
 * [圖片](photo/photo-README.md)
     * [Phone](photo/photo-phone.md)
     * [Responsive Image srcset](photo/photo-responsive-image-srcset.md)
