@@ -8,3 +8,4 @@
 ## 開發者
 * [LINE Developers](https://developers.line.biz/en/services/)
 * [Line Messaging API](https://developers.line.biz/en/docs/messaging-api/overview/)
+* [Messaging API reference](https://developers.line.biz/en/reference/messaging-api/)
