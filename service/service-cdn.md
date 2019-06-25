@@ -7,3 +7,6 @@
 
 ## 檢測
 * [Cloudflare Status](https://www.cloudflarestatus.com/)
+* [Cloudflare down? Current problems and outages | Downdetector](https://downdetector.com/status/cloudflare)
+* [SmokePing - Cloudflare](https://smokeping.4rbj4.com/smokeping/sm.cgi?filter=cloudflare;target=CDN.Cloudflare)
+* [Cloudflare Status information is also available as an RSS feed](https://www.cloudflarestatus.com/history.atom)
