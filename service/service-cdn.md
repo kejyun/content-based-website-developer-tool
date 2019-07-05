@@ -1,5 +1,9 @@
 # CDN
 
+## 網站
+* [Cloudflare - The Web Performance & Security Company | Cloudflare](Cloudflare - The Web Performance & Security Company | Cloudflare)
+* [Fastly | The edge cloud platform behind the best of the web](https://www.fastly.com/)
+
 ## 圖片
 * [Photon | Developer Resources](https://developer.wordpress.com/docs/photon/)
 * [Photon API | Developer Resources](https://developer.wordpress.com/docs/photon/api/)
