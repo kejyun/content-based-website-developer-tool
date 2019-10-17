@@ -50,3 +50,6 @@
 * [影片](video/video-README.md)
     * [Youtube](video/video-youtube.md)
 * [工具](tool/tool-README.md)
+    * [IP 查詢](tool/tool-ip.md)
+* [UI/UX](uiux/uiux-README.md)
+    * [IntersectionObserver 元素偵測](uiux/uiux-IntersectionObserver.md)
