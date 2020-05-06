@@ -26,6 +26,7 @@
         * [Debugger](social/facebook/facebook-debugger.md)
     * [Youtube](social/youtube/youtube-README.md)
         * [Youtube 播放器 Mobile Friendly](social/youtube/social-youtube-embed-player-mobile-friendly.md)
+        * [Youtube 縮圖網址](social/youtube/social-youtube-photo-url.md)
     * [Line](social/line/line-README.md)
         * [Line Message API](social/line/line-message-api.md)
 * [平台](platform/platform-README.md)

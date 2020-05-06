@@ -26,3 +26,7 @@ function observedCallback(observeElementsCollectioin) {
 * [The Intersection Observer API - Arnelle’s Blog](https://blog.arnellebalane.com/the-intersection-observer-api-d441be0b088d)
 * [Intersection Observer - Web API 接口参考 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/IntersectionObserver)
 * [russellgoldenberg/scrollama: Scrollytelling with IntersectionObserver.](https://github.com/russellgoldenberg/scrollama)
+* [JS中的观察者们 —— 四种 Observers | 前端学习笔记](https://xiaotianxia.github.io/blog/vuepress/js/four_kinds_of_observers.html)
+* [russellgoldenberg/scrollama: Scrollytelling with IntersectionObserver.](https://github.com/russellgoldenberg/scrollama)
+* [DOMNodeInserted event JavaScript](http://help.dottoro.com/ljmcxjla.php)
+* [jQuery: how to use the DOMNodeInserted event - JSFiddle](https://jsfiddle.net/wirtaw/tseok4mo/)
