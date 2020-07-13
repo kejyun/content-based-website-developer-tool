@@ -47,6 +47,7 @@
   * [Demo](https://themes.gohugo.io/theme/base16/)
 
 
+
 # 形象網站
 * [Influencer Hugo](https://themes.gohugo.io/influencer-hugo/)
   * [Demo](https://themes.gohugo.io/theme/Influencer-hugo/)
@@ -66,6 +67,52 @@
   * [Demo](https://themes.gohugo.io/theme/base16/)
 * [Base16](https://themes.gohugo.io/base16/)
   * [Demo](https://themes.gohugo.io/theme/base16/)
+
+
+
+# 設計師
+* [Hugo Theme Dream](https://themes.gohugo.io/hugo-theme-dream/)
+  * [Demo](https://themes.gohugo.io//theme/hugo-theme-dream/)
+* [Liva Hugo](https://themes.gohugo.io/liva-hugo/)
+  * [Demo](https://themes.gohugo.io/theme/liva-hugo/)
+
+# 餐廳
+* [Restaurant Hugo](https://themes.gohugo.io/restaurant-hugo/)
+  * [Demo](https://themes.gohugo.io/theme/restaurant-hugo/)
+
+
+# 履歷
+* [Toha](https://themes.gohugo.io/toha/)
+  * [Demo](https://themes.gohugo.io/theme/toha/)
+* [Somrat](https://themes.gohugo.io/somrat/)
+  * [Demo](https://themes.gohugo.io/theme/somrat/)
+* [Hugo Resume](https://themes.gohugo.io/hugo-resume/)
+  * [Demo](https://themes.gohugo.io//theme/hugo-resume/#projects)
+* [Forty](https://themes.gohugo.io/forty/)
+  * [Demo](https://themes.gohugo.io/theme/forty/)
+* [Prologue](https://themes.gohugo.io/prologue/)
+  * [Demo](https://themes.gohugo.io/theme/prologue/#portfolio)
+* [Raditian Free Hugo Theme](https://themes.gohugo.io/raditian-free-hugo-theme/)
+  * [Demo](https://themes.gohugo.io/theme/raditian-free-hugo-theme/)
+* [Hugo Theme Introduction](https://themes.gohugo.io/hugo-theme-introduction/)
+  * [Demo](https://themes.gohugo.io/theme/hugo-theme-introduction/)
+* [Hugo Devresume Theme](https://themes.gohugo.io/hugo-devresume-theme/)
+  * [Demo](https://themes.gohugo.io/theme/hugo-devresume-theme/)
+* [Hugo Resume](https://themes.gohugo.io/hugo-resume/)
+  * [Demo](https://themes.gohugo.io//theme/hugo-resume/#projects)
+* [Hugo Identity Theme](https://themes.gohugo.io/hugo-identity-theme/)
+  * [Demo](https://themes.gohugo.io/theme/hugo-identity-theme/)
+* [Prologue](https://themes.gohugo.io/prologue/)
+  * [Demo](https://themes.gohugo.io/theme/prologue/#top)
+* [Hugo Orbit Theme](https://themes.gohugo.io/hugo-orbit-theme/)
+  * [Demo](https://themes.gohugo.io/theme/hugo-orbit-theme/)
+
+# 投影片
+* [Reveal Hugo](https://themes.gohugo.io/reveal-hugo/)
+  * [Demo](https://themes.gohugo.io/theme/reveal-hugo/#/24)
+
+
+
 
 
 # 參考資料
